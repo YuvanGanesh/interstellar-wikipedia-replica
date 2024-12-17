@@ -12,4 +12,4 @@ A simple replica of Interstellar's Wikipedia page created using HTML.
 View it live here: [GitHub Pages Link](https://yuvanganesh.github.io/interstellar-wikipedia-replica/)
 
 ## How to Use
-1. Clone the repository: 
+1. Clone the repository: https://github.com/YuvanGanesh/interstellar-wikipedia-replica
